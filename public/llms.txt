@@ -1,0 +1,53 @@
+# להחליט מהלב — Generative Engine Optimization Map
+
+> A שירותי רווחה וטיפול בקשישים business.
+
+---
+
+## Pages
+
+### Home
+https://-8df8da10.zappy5.app
+
+### Services
+https://-8df8da10.zappy5.app/services
+
+### About
+https://-8df8da10.zappy5.app/about
+
+### Contact
+https://-8df8da10.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8df8da10.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8df8da10.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8df8da10.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About להחליט מהלב
+להחליט מהלב is a business in the שירותי רווחה וטיפול בקשישים industry.
+
+## Target Audience
+משפחות הנמצאות בפני החלטה קריטית בנוגע להשמת הורה מבוגר
+
+## Industry
+שירותי רווחה וטיפול בקשישים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-8df8da10.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-8df8da10.zappy5.app/robots.txt
